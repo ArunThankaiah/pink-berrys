@@ -500,7 +500,7 @@
 	content:'/';
 	right:-17px;
 	top:-1px;
-	color:#feac1d;
+	color:#fff;
 	-webkit-transition:all 0.3s ease;
 	-moz-transition:all 0.3s ease;
 	-ms-transition:all 0.3s ease;
@@ -905,7 +905,7 @@
 	content:'/';
 	right:-17px;
 	top:-1px;
-	color:#d6d1ad;
+	color:#000;
 	-webkit-transition:all 0.3s ease;
 	-moz-transition:all 0.3s ease;
 	-ms-transition:all 0.3s ease;
@@ -1249,7 +1249,7 @@
 }
 
 .beverage-block .inner-box:hover .lower-content h6 a{
-	color:#f67900;
+	color:#f90290;
 }
 
 .beverage-block .inner-box .lower-content .products{
@@ -1302,7 +1302,7 @@
 	overflow:hidden;
 	border-radius:50%;
 	text-align:center;
-	background-color:rgba(254, 172, 29, 0.7);
+	background-color:rgba(249, 2, 144, 0.7);
 	/* background-position:center center;
 	background-repeat:no-repeat; */
 	
@@ -1707,7 +1707,7 @@
 
 .testimonial-section .owl-dots .owl-dot:hover,
 .testimonial-section .owl-dots .owl-dot.active{
-	background-color:#beb996;
+	background-color:#000;
 }
 
 .testimonial-block{
@@ -1746,7 +1746,7 @@
 }
 
 .testimonial-block .inner-box .designation{
-	color:#beb996;
+	color:#000;
 	font-size:14px;
 	font-weight:400;
 }
@@ -1813,7 +1813,7 @@
 	bottom:0px;
 	color:#ffffff;
 	text-align:center;
-	background-color:rgba(246, 121, 0,0.7);
+	background-color:rgba(249, 2, 144,0.7);
 	transition: -webkit-transform 0.4s ease;
 	transition: transform 0.4s ease;
 	transition: transform 0.4s ease,-webkit-transform 0.4s ease;
@@ -1872,7 +1872,7 @@
 
 .news-block .inner-box .image .overlay-box .icon:hover{
 	background-color:#ffffff;
-	color:#f67900;
+	color:#f90290;
 }
 
 .news-block .inner-box .lower-content{
@@ -1889,7 +1889,7 @@
 	padding:2px 18px;
 	border-radius:8px;
 	display:inline-block;
-	background-color:#f67900;
+	background-color:#f90290;
 	text-transform:uppercase;
 }
 
@@ -2051,7 +2051,7 @@
 	bottom:10px;
 	color:#ffffff;
 	text-align:center;
-	background-color:rgba(246, 121, 0,0.7);
+	background-color:rgba(249, 2, 144,0.7);
 	transition: -webkit-transform 0.4s ease;
 	transition: transform 0.4s ease;
 	transition: transform 0.4s ease,-webkit-transform 0.4s ease;
@@ -2184,7 +2184,7 @@
 	bottom:0px;
 	height:2px;
 	width:45px;
-	background-color:#f67900;
+	background-color:#f90290;
 }
 
 .main-footer .contact-widget .text{
@@ -2322,7 +2322,7 @@
 	font-weight:400;
 	display:inline-block;
 	text-transform:capitalize;
-	background-color:#f67900;
+	background-color:#f90290;
 }
 
 .main-footer .footer-bottom{
@@ -7232,8 +7232,8 @@
 
 .testimonial-section-two .owl-dots .owl-dot:hover,
 .testimonial-section-two .owl-dots .owl-dot.active{
-	background-color:#beb996;
-	border-color:#beb996;
+	background-color:#000;
+	border-color:#000;
 }
 
 /*** 
