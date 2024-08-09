@@ -306,7 +306,7 @@
 .main-menu .navigation > li:hover > a,
 .main-menu .navigation > li.current > a{
 	opacity:1;
-	color:#111111;
+	color:#fff;
 }
 
 .header-style-two .main-menu .navigation > li:hover > a,
