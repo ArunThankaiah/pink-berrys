@@ -4983,7 +4983,7 @@
 	position:relative;
 	width:100%;
 	display:block;
-	filter: grayscale(100%);
+	/* filter: grayscale(100%); */
 	-webkit-transition: all 500ms ease;
 	-moz-transition: all 500ms ease;
 	-ms-transition: all 500ms ease;
@@ -4991,9 +4991,9 @@
 	transition: all 500ms ease;
 }
 
-.staff-block .inner-box:hover .image img{
+/* .staff-block .inner-box:hover .image img{
 	filter: grayscale(0%);
-}
+} */
 
 .staff-block .inner-box .image .overlay-box{
 	position:absolute;
