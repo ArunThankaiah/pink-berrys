@@ -458,7 +458,7 @@ img{
 	overflow:hidden;
 	overflow: hidden;
 	border-radius: 50px;
-	background-color:#5dca89;
+	background-color:rgba(249,2,144,0.7);
 	padding:7px 35px 6px 7px;
 	text-transform: capitalize;
 	font-family: 'Poppins', sans-serif;
@@ -472,7 +472,7 @@ img{
 	border-radius:50%;
 	text-align:center;
 	float:left;
-	color:#f7a392;
+	color:#f90290;
 	margin-right:22px;
 	-webkit-transition:all 300ms ease;
 	-moz-transition:all 300ms ease;
@@ -488,7 +488,7 @@ img{
 
 .btn-style-four:hover{
 	color: #ffffff;
-	background-color:#fadf5e;
+	background-color:#f90290;
 }
 
 /* Social Icon One */

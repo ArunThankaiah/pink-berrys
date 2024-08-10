@@ -377,7 +377,7 @@
 	top:12px;
 	opacity:0;
 	font-size:10px;
-	color:#de9190;
+	color:#f90290;
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
@@ -394,7 +394,7 @@
 }
 
 .main-menu .navigation > li > ul > li:hover > a{
-	color:#de9190;
+	color:#f90290;
 	padding-left:30px;
 }
 
@@ -470,7 +470,7 @@
 }
 
 .main-menu .navigation > li > ul > li > ul > li:hover > a{
-	color:#de9190;
+	color:#f90290;
 }
 
 .main-menu .navigation > li > ul > li > ul > li > a:before{
@@ -479,7 +479,7 @@
 	left:10px;
 	top:12px;
 	opacity:0;
-	color:#de9190;
+	color:#f90290;
 	font-size:10px;
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
@@ -493,7 +493,7 @@
 }
 
 .main-menu .navigation > li > ul > li > ul > li:hover > a{
-	color:#de9190;
+	color:#f90290;
 	padding-left:30px;
 }
 
@@ -679,7 +679,7 @@
 	left:0px;
 	left:auto;
 	bottom:14px;
-	background-color:#de9190;
+	background-color:#f90290;
 }
 
 .header-style-three .header-upper .logo-box{
@@ -720,7 +720,7 @@
 
 .header-style-three .header-upper .search-box .form-group textarea::-webkit-input-placeholder,
 .header-style-three .header-upper .search-box .form-group input::-webkit-input-placeholder{
-	color:#ecc7c7;
+	color:rgba(249,2,144,0.5);
 	letter-spacing:2px;
 }
 
@@ -768,7 +768,7 @@
 }
 
 .header-style-three .header-lower .outer-box .social-box li a:hover{
-	color:#beb996;
+	color: rgba(249,2,144,0.5);
 }
 
 .header-style-four{
