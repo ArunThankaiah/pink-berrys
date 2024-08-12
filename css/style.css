@@ -1266,7 +1266,13 @@
 	position:relative;
 	margin-top:20px;
 }
-
+.icecream-sub{
+	font-size: 13px;
+	text-align: center;
+	font-weight: 400;
+	padding-top: 10px;
+	color: #000000;
+}
 /*** 
 
 ====================================================================
