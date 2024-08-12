@@ -102,13 +102,21 @@ body {
 a{
 	text-decoration:none;
 	cursor:pointer;
-	color:#fadf5e;
+	/* color:#fadf5e; */
+	color: #777777;
 }
-
+.contact-anchor{
+	color: #111111 !important;
+}
+.contact-li{
+	margin-bottom: unset !important;
+	padding: 10px 0 !important;
+}
 button,
 a:hover,a:focus,a:visited{
 	text-decoration:none;
 	outline:none !important;
+	color: #fff;
 }
 
 h1,h2,h3,h4,h5,h6 {
