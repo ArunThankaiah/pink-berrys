@@ -1004,7 +1004,18 @@
 ====================================================================
 
 ***/
+.second-banner{
+	position: relative;
 
+}
+.second-banner-div{
+	width: 80%;
+	margin: auto;
+}
+.second-banner-img{
+	width: 100%;
+	height: auto;
+}
 .banner-section-three{
 	position:relative;
 	overflow:hidden;
